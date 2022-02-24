@@ -5,3 +5,7 @@ Our task was to improve on the code given to us and correct any mistakes and / o
 The first link, 'Search Engine Optimization' was also broken and has now been corrected.
 
 Also added were alternate tags to each of the images for accessibility purposes. 
+
+link: https://androneus14.github.io/Code-Refactor-Horiseon/
+
+
