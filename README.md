@@ -8,4 +8,4 @@ Also added were alternate tags to each of the images for accessibility purposes.
 
 link: https://androneus14.github.io/Code-Refactor-Horiseon/
 
-
+![Screenshot (4)](https://user-images.githubusercontent.com/98381243/155510612-18a1be70-17d9-4feb-9e54-c3c6600c55f7.png)
